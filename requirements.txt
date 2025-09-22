@@ -1,0 +1,30 @@
+#core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+
+#Deep Learning / GenAI Stack
+torch
+torchvision
+torchaudio
+transformers
+datasets
+huggingface_hub
+accelerate
+
+#Experiment Tracking & Utilities
+tqdm
+jupyter
+notebook
+ipykernel
+
+# (Optional but recommended)
+
+seaborn          # prettier plots
+scipy            # scientific utilities
+sentencepiece    # for custom tokenizers
+faiss-cpu        # vector search (for RAG later)
+
+
