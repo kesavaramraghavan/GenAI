@@ -1,0 +1,6 @@
+Name,Age,Score,Gender,Passed,Age_group
+Alice,25.0,88.0,F,False,Young
+Bob,32.5,92.0,M,True,Mid
+Charlie,35.0,88.25,M,False,Mid
+David,40.0,78.0,M,False,Mid
+Bob,30.0,95.0,M,True,Young
